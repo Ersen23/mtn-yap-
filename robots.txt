@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mtn-yap.vvh7jj564n.workers.dev/sitemap.xml
